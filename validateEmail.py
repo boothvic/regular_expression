@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Workspace/Python/checkEmail.py
+# Workspace/Python/validateEmail.py
 #
 # Vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4
 # Python source code - replace this with a description
